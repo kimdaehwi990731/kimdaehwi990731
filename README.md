@@ -26,3 +26,6 @@
 ### **📫Contacts**
 ![naver](https://img.shields.io/badge/naver-353535.svg?&style=for-the-badge&logo=naver&logoColor=white)
 ![gmail](https://img.shields.io/badge/gmail-585858.svg?&style=for-the-badge&logo=gmail&logoColor=white)
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehwi990731&show_icons=true&theme=dark)
