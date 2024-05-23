@@ -20,8 +20,8 @@
   <summary> ☾⋆⁺₊⋆💜 𝑳 𝑨 𝑵 𝑮 𝑼 𝑨 𝑮 𝑬 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
   
-  ![python](https://img.shields.io/badge/python-353535.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![javascript](https://img.shields.io/badge/javascript-585858.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+  ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 </details>
 
 <h6 align="center"> </h6>
@@ -30,8 +30,8 @@
   <summary> ☾⋆⁺₊⋆💙 𝑷 𝑳 𝑨 𝑻 𝑭 𝑶 𝑹 𝑴 💙☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
   
-  ![eclipseide](https://img.shields.io/badge/eclipseide-353535.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
-  ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-585858.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+  ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </details>
 
 <h6 align="center"> </h6>
@@ -40,7 +40,7 @@
   <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
   <a href="mailto:whee990731@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
- <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-585858.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </details>
 
