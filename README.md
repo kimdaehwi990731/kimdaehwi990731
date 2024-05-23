@@ -14,6 +14,8 @@
   <h6 align="center"> 📜 창업에듀 창업교육(기초/심화) 수료 </h6>
 </details>
 
+<h6 align="center"> </h6>
+
 <details align="center">
   <summary> ☾⋆⁺₊⋆💜 𝑳 𝑨 𝑵 𝑮 𝑼 𝑨 𝑮 𝑬 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
@@ -22,19 +24,27 @@
   ![javascript](https://img.shields.io/badge/javascript-585858.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 </details>
 
+<h6 align="center"> </h6>
+
 <details align="center">
   <summary> ☾⋆⁺₊⋆💙 𝑷 𝑳 𝑨 𝑻 𝑭 𝑶 𝑹 𝑴 💙☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
   
   ![eclipseide](https://img.shields.io/badge/eclipseide-353535.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-585858.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 </details>
 
-### **📜 Schedule**
-![notion](https://img.shields.io/badge/notion-353535.svg?&style=for-the-badge&logo=notion&logoColor=white)
+<h6 align="center"> </h6>
 
----
+<details align="center">
+  <summary> ☾⋆⁺₊⋆💜  💜☾⋆⁺₊⋆ </summary>
+  <h6 align="center"> </h6>
+  
+  ![python](https://img.shields.io/badge/python-353535.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-585858.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+</details>
+
+
 
 ### **📫Contacts**
 ![naver](https://img.shields.io/badge/naver-353535.svg?&style=for-the-badge&logo=naver&logoColor=white)
