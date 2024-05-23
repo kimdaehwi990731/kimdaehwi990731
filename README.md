@@ -37,18 +37,14 @@
 <h6 align="center"> </h6>
 
 <details align="center">
-  <summary> ☾⋆⁺₊⋆💜  💜☾⋆⁺₊⋆ </summary>
+  <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
-  
-  ![python](https://img.shields.io/badge/python-353535.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![javascript](https://img.shields.io/badge/javascript-585858.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
+  ![naver](https://img.shields.io/badge/naver-353535.svg?&style=for-the-badge&logo=naver&logoColor=white)
+  ![gmail](https://img.shields.io/badge/gmail-585858.svg?&style=for-the-badge&logo=gmail&logoColor=white)
 </details>
 
+<h6 align="center"> </h6>
+<h5 align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</h6>
 
-
-### **📫Contacts**
-![naver](https://img.shields.io/badge/naver-353535.svg?&style=for-the-badge&logo=naver&logoColor=white)
-![gmail](https://img.shields.io/badge/gmail-585858.svg?&style=for-the-badge&logo=gmail&logoColor=white)
-
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehwi990731&show_icons=true&theme=dark)
