@@ -42,7 +42,6 @@
 
   ![kakao](https://img.shields.io/badge/kakao-FFCD00.svg?&style=for-the-badge&logo=kakao&logoColor=white)
   ![kakaotalk](https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=white)
-  ![instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
 
 </details>
 
@@ -52,7 +51,7 @@
   <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
 
-  <a href="mailto:"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/heeheedaeng?igsh=NHkwbGxkYzh1cWZ5&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:whee990731@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
  <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
