@@ -37,7 +37,7 @@
   ![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
   ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
-  ![tistory](https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white)
+  
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
   ![kakao](https://img.shields.io/badge/kakao-FFCD00.svg?&style=for-the-badge&logo=kakao&logoColor=white)
@@ -50,10 +50,11 @@
 <details align="center">
   <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
-
+  
+  <a href="https://kimzzanggu.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="https://www.instagram.com/heeheedaeng?igsh=NHkwbGxkYzh1cWZ5&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:whee990731@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
- <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </details>
 
