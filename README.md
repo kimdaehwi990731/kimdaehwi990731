@@ -39,11 +39,10 @@
 <details align="center">
   <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
-
-  ![naver](https://img.shields.io/badge/naver-353535.svg?&style=for-the-badge&logo=naver&logoColor=white)
+<a href="mailto:whee990731@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white/></a>
+  ![naver](https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)
   ![gmail](https://img.shields.io/badge/gmail-585858.svg?&style=for-the-badge&logo=gmail&logoColor=white)
-  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("mailto:whee990731@naver.com")
-
+  
 </details>
 
 <h6 align="center"> </h6>
