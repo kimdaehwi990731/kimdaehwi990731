@@ -37,11 +37,9 @@
   ![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
   ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
-  
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-
-  ![kakao](https://img.shields.io/badge/kakao-FFCD00.svg?&style=for-the-badge&logo=kakao&logoColor=white)
-  ![kakaotalk](https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=white)
+  ![kakao](https://img.shields.io/badge/kakao-FFCD00.svg?&style=for-the-badge&logo=kakao&logoColor=black)
+  ![kakaotalk](https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=black)
 
 </details>
 
