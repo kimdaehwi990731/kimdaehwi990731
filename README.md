@@ -21,6 +21,7 @@
   <h6 align="center"> </h6>
   
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![javascript](https://img.shields.io/badge/java-EE0000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
   ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 </details>
 
@@ -30,8 +31,19 @@
   <summary> ☾⋆⁺₊⋆💙 𝑷 𝑳 𝑨 𝑻 𝑭 𝑶 𝑹 𝑴 💙☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
   
-  ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+  ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+  ![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
+  ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+
+  ![tistory](https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white)
+  ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+  ![kakao](https://img.shields.io/badge/kakao-FFCD00.svg?&style=for-the-badge&logo=kakao&logoColor=white)
+  ![kakaotalk](https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=white)
+  ![instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+
 </details>
 
 <h6 align="center"> </h6>
@@ -39,6 +51,8 @@
 <details align="center">
   <summary> ☾⋆⁺₊⋆💜 𝑪 𝑶 𝑵 𝑻 𝑨 𝑪𝑻 💜☾⋆⁺₊⋆ </summary>
   <h6 align="center"> </h6>
+
+  <a href="mailto:"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:whee990731@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
  <a href="mailto:kimdaehwi990731@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
